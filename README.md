@@ -27,10 +27,13 @@ Here are some ideas to get you started:
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/roopi-)](https://blog.naver.com/roopi-)
 <br>
 
-# Association 🌱
+# Education 🌱
 Kookmin University, Seoul, South Korea
 <br>School of business, Department of Management Information Systems<br>
 
 # Tech Stack 💻
-
+![Static Badge](https://img.shields.io/badge/Python-%233776AB) ![Static Badge](https://img.shields.io/badge/Pandas-%23150458) ![Static Badge](https://img.shields.io/badge/NumPy-%23013243) ![Static Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C) ![Static Badge](https://img.shields.io/badge/Google%20Colab-%23F9AB00) ![Static Badge](https://img.shields.io/badge/Jupyter-%23F37626) <br>
+![Static Badge](https://img.shields.io/badge/R-%23276DC3) ![Static Badge](https://img.shields.io/badge/Rstudio-%2375AADB) <br>
+![Static Badge](https://img.shields.io/badge/Oracle-%23F80000) <br>
+![Static Badge](https://img.shields.io/badge/Html-%233366CC) ![Static Badge](https://img.shields.io/badge/CSS-%231572B6) ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E) ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC) <br>
 </div>
