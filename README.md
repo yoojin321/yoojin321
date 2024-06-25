@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 <br>
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/yy_oojin?igshid=OGQ5ZDc2ODk2ZA==)](https://instagram.com/yy_oojin?igshid=OGQ5ZDc2ODk2ZA==) 
 <br>
-[![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/roopi-)](https://blog.naver.com/roopi-)
-<br>
 
 # Education 🌱
 Kookmin University, Seoul, South Korea
