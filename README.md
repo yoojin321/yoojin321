@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 <br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iamlyj03@kookmin.ac.kr)](mailto:iamlyj03@kookmin.ac.kr)
 <br>
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/yy_oojin?igshid=OGQ5ZDc2ODk2ZA==)](https://instagram.com/yy_oojin?igshid=OGQ5ZDc2ODk2ZA==) 
-<br>
 
 # Education 🌱
 Kookmin University, Seoul, South Korea
